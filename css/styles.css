@@ -1,0 +1,140 @@
+body {
+    color: #003300;
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  h1 {
+    color: #594ab5;
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+    margin-top: 50px;
+    margin-bottom: 0;
+    widows: 5%;
+    line-height: 2;
+  }
+  h2 {
+     
+    color: #594ab5;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    padding-bottom: 10px;
+  }
+  h3 {
+    
+    color: #11999e;
+    font-family: "Josefin Sans", sans-serif;
+    
+    
+    
+    
+  }
+  
+  p {
+    font-weight: bold;
+    line-height: 2;
+    
+    
+  }
+  
+  a {
+    color: #11999e;
+  }
+  
+  hr{
+  border-style: dotted solid;
+  
+  
+    border-color: cornflowerblue;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+  
+  }
+  
+  .top-container {
+    background-color: #aa96da;
+    position: relative;
+    padding-top: 100px;
+  }
+  
+  .middle-container {
+    margin: 100px 0;
+  }
+   
+  
+  .intro
+  {
+     font-weight: normal;
+     width: 30%;
+     margin: auto;
+  }
+  .compsci {
+    text-decoration: underline;
+  }
+  
+  .bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  .topcloud {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+  }
+  
+  
+  .skill-row{
+  
+    width: 50%;
+    margin:  100px auto 100px auto  ;
+    text-align: left;
+  
+  }
+    .pimg{
+        width:200px;
+        border-radius:50%;
+    }
+  
+  .cpp-programming{
+      width:300px;
+      border-radius: 50%;
+  }
+  .WebDev{
+     width: 20%;
+     float: left;
+       
+     
+     margin-right: 30px;
+   
+  }
+  .cpp-programming{
+    margin-top: 20px;
+    width: 20%;
+    float: right;
+  
+  }
+
+  .btn{
+      border:2px solid  #11999e;
+      padding:13px;
+      text-decoration: none;
+    
+      border-radius:10px;
+      letter-spacing: 1.5px;
+      width:200px;
+      color:white;
+      background-color: #11999e;
+
+  }
+  .bottom-container{
+      height:100px;
+      padding:23px;
+      background-color: #11999e;
+  }
+  .footer-link{
+      color:white;
+  }
